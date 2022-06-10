@@ -1,6 +1,6 @@
 
 # ChristianFernando93
-### Olá, me chamo Christian Fernando sou formado em Sistema de Informação e Pós Graduação dem Engenharia de Software!
+### Olá, me chamo Christian Fernando sou formado em Sistema de Informação e Pós Graduação em Engenharia de Software!
 
 #### Atualmente estou estudando HTML, CSS, SASS, Bootstrap, Java Scprit, ReactJS, AngulaJS, VeuJs e TypeScript
 
